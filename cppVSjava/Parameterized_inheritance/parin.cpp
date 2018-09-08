@@ -22,7 +22,7 @@ private:
 public:
 	marks(int er_no,int no)
 	{
-		stud::stud(no);
+		stud::stud(no);					//*****________*****//
 		this->er_no=er_no;
 		cout<<"Base class constructor called..\n";
 	}
